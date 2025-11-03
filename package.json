@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.2.0",
+  "description": "Project for learning JS for backend in Freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freecodecamp",
+    "Nodejs",
+    "Backend",
+    "Javascript"
+  ],
+  "author": "Tomas Demaria Torres",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.13.11"
+  }
+}
